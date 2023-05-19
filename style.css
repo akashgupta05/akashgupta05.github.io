@@ -267,6 +267,10 @@
   .icon-email:before {
     content: '\f199';
   }
+
+  .icon-medium:before {
+    content: "\f23a";
+  }
   
   body {
     margin: 10px;
